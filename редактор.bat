@@ -1,0 +1,1 @@
+"d:\Program Files\Opera AC 3.6\operaAC.exe" %1
